@@ -21,17 +21,14 @@ public class AddToPositiveOrNegativeSum {
         if (num<0){
             negativeSum+=num;
         }
-            System.out.println("The sum of the positive numbers is "+ positiveSum);
-            System.out.println("The sum of the negative numbers is "+ negativeSum);
 
 
-
-
-
-
+        
         } // end of for loop
 
 
+        System.out.println("The sum of the positive numbers is "+ positiveSum);
+        System.out.println("The sum of the negative numbers is "+ negativeSum);
 
 
             // output the sums. Make sure the format matches the sample
